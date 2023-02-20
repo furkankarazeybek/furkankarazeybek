@@ -2,7 +2,7 @@
 <br />
 <h1 align="center">Hi 👋, I'm Furkan KARAZEYBEK</h1>
 <h3 align="center">A full stack developer</h3>
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/mobile-phone-desktop-app-development_23-2148704867.jpg?w=740&t=st=1676856348~exp=1676856948~hmac=fc6eeabc8ff1855e36749b909b3682b847be4ceb4c0108f02047fcc003e404c9">
+<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/artificial-intelligence-isometric-icon-server-room-datacenter-database-concept_39422-772.jpg?w=900&t=st=1676857572~exp=1676858172~hmac=f6370512a883abd37ab1a185709be8e343757fed9325b1200b754070d10b4d46">
 
 - 📫 How to reach me **furkankarazeybek7@gmail.com**
 <h3 align="left">Connect with me</h3>
