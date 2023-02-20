@@ -1,8 +1,8 @@
-<img align="right" alt="Coding" width="800" src="https://img.freepik.com/premium-photo/abstract-modern-tech-programming-code-screen-developer-c-programming-language-computer-script-technology-background-software_505353-434.jpg?w=740">
+<img align="right" alt="Coding" width="800" src="https://img.freepik.com/free-vector/computer-with-big-data-stream-isometric-banner_107791-248.jpg?w=740&t=st=1676857680~exp=1676858280~hmac=7416f04c90ab2ce07f1f5382755c1dca87d1ef134456e5e5cc8245917ab69de5">
 <br />
 <h1 align="center">Hi 👋, I'm Furkan KARAZEYBEK</h1>
 <h3 align="center">A full stack developer</h3>
-<img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/artificial-intelligence-isometric-icon-server-room-datacenter-database-concept_39422-772.jpg?w=900&t=st=1676857572~exp=1676858172~hmac=f6370512a883abd37ab1a185709be8e343757fed9325b1200b754070d10b4d46">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/artificial-intelligence-isometric-icon-server-room-datacenter-database-concept_39422-772.jpg?w=900&t=st=1676857572~exp=1676858172~hmac=f6370512a883abd37ab1a185709be8e343757fed9325b1200b754070d10b4d46">
 
 - 📫 How to reach me **furkankarazeybek7@gmail.com**
 <h3 align="left">Connect with me</h3>
