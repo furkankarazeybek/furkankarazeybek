@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Furkan KARAZEYBEK</h1>
-<h3 align="center">A full stack developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://img.freepik.com/free-vector/new-app-development-desktop_23-2148684987.jpg?w=740&t=st=1676856149~exp=1676856749~hmac=412c70cd3d758ac3e24298dc680dd369b6791d99fa42c934ee8fbb8744f2ae94)">
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/mobile-phone-desktop-app-development_23-2148704867.jpg?w=740&t=st=1676856348~exp=1676856948~hmac=fc6eeabc8ff1855e36749b909b3682b847be4ceb4c0108f02047fcc003e404c9">
 
 
 <h3 align="left">Connect with me: furkankarazeybek7@gmail.com</h3>
