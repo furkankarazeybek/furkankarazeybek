@@ -1,4 +1,4 @@
-[![MasterHead]
+<img align="right" alt="Coding" width="800" src="https://img.freepik.com/free-photo/code-coding-programming-technology-technical-concept_53876-120436.jpg?w=740&t=st=1676856947~exp=1676857547~hmac=e0fb6a062b307d9367dd5a65a1a2edabe05a4b16c14f02fad84a2281297c93de">
 <h1 align="center">Hi 👋, I'm Furkan KARAZEYBEK</h1>
 <h3 align="center">A full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/mobile-phone-desktop-app-development_23-2148704867.jpg?w=740&t=st=1676856348~exp=1676856948~hmac=fc6eeabc8ff1855e36749b909b3682b847be4ceb4c0108f02047fcc003e404c9">
